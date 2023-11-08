@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12787988&assignment_repo_type=AssignmentRepo)
 # ToDo App Exercise - Django
 Welcome to the ToDo App Exercise with Django! In this assignment, you'll create a basic ToDo application using Django, a high-level Python web framework that encourages rapid development and clean, pragmatic design. The goal is to understand how to handle web requests, render dynamic content, and perform CRUD operations.
 
